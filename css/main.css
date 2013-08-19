@@ -1,0 +1,256 @@
+html{
+  background-image:url('http://www.hackforbigchoices.com/media/background2.gif');
+}
+body{
+  background-color: transparent;
+}
+.container{
+  color:black;
+  font-family: 'Pathway Gothic One', sans-serif;
+  background:url('background.png')
+}
+
+.navbar { 
+  background-color: #00c3df;
+}
+.navbar .navbar-nav > li > a{
+	color: white;
+}
+.navbar li{
+	margin-right:  29px;
+}
+.navbar li a{
+	  font-size: 30px;
+	  margin-top: 15px;
+}
+.navbar li .brand{
+	margin-top: 0px;
+}
+.navbar li .brand img{
+	width: 280px;
+}
+p{
+	margin-top: 15px;
+	padding: 20px;
+	font-size: 20px;
+	line-height: 24px;
+	font-family: 'Helvetica Neue', sans-serif;
+}
+.circle_pic{
+	width: 150px;
+}
+h3.item_head{
+	font-size: 23px;
+		font-family: 'Pathway Gothic One', sans-serif;
+}
+hr.section_divider{
+	background: #E3DEE3;
+	height: 2px;
+	border-bottom: 2px solid #fff;
+}
+.section_title{
+text-align:center;
+}
+.section_title #title{
+	background:#B8B8B8;
+	color: white;
+	float: center;
+	padding: 6px 20px;
+	font-size: 20px;
+	border-radius: 2px;
+}
+#section1 .body{
+	margin-top: 50px;
+	margin-bottom: 30px;
+}
+#section1 h1{
+  font-family: 'Pathway Gothic One', sans-serif;
+  font-size:110px;
+  line-height:106px;
+}
+#section1 h2{
+  font-family: 'Helvetica Neue', sans-serif;
+  font-size:25px;
+  color:#333;
+  font-style:italic;
+  margin-top: 0;
+}
+#section1 .steve{
+  color:#00c3df;
+  font-size:30px;
+}
+#section1 .bottom{
+	margin-top: 20px;
+}
+#section1 ul{
+	margin-top: 20px;
+	;
+	padding: 0;
+}
+#section1 li{
+	font-size: 34px;
+	padding: 0;
+	margin: 0;
+	list-style-type: none;
+}
+#section1 li img{
+	width: 33px;
+	margin-right: 12px;
+	position: relative;
+	top: -3px;
+}
+
+#section1 .register{
+	margin-top: 12px;
+}
+
+#section1 .register_button{
+	font-size: 30px;
+	background: #f7931f;
+	border-radius: 0.2em;
+	color: white;
+	-webkit-box-shadow: inset  1px 1px 0px rgba(255, 255, 255, 0.9),
+	 1px 1px 0px rgba(0,0,0,0.5);
+	-moz-box-shadow: inset  1px 1px 0px rgba(255, 255, 255, 0.9),
+	 1px 1px 0px rgba(0,0,0,0.5);
+	box-shadow: inset  1px 1px 0px rgba(255, 255, 255, 0.9),
+	 1px 1px 0px rgba(0,0,0,0.5);
+}
+#section1 a.register_button{
+	position: relative;
+	color: white;
+	text-decoration: none;
+	padding: 0.4em 0.7em;
+}
+#section1 .attend_line{
+	margin-top: 27px;
+	font-size: 30px;
+}
+#section1 a{
+	color: #00c3df;
+	text-decoration:underline
+}
+
+#section2 .body{
+	margin-top: 40px;
+	margin-bottom: 30px;
+}
+#section2 .mission{
+	text-align:center;
+}
+#section2 .mission h3{
+
+}
+#section2 p .title{
+	font-size: 41px;
+	line-height: 36px;
+	color: #00c3df;
+	font-family: 'Pathway Gothic One', sans-serif;
+}
+
+
+#section3 .body{
+	margin-top: 40px;
+	margin-bottom: 30px;
+}
+#section3 .speaker{
+	text-align:center;
+}
+
+#section3 h3{
+	margin-bottom: 3px;
+}
+#section3 h4{
+	font-size: 17px;
+	color: #666666;
+	margin: 0 0 4px 0;
+	font-family: 'Pathway Gothic One', sans-serif;
+}
+#section3 p{
+	margin-top: 0;
+	padding-top: 10px;
+}
+#section4 .body{
+	margin-top: 40px;
+	margin-bottom: 30px;
+}
+#section4 #location-map{
+	width: 100%;
+}
+
+
+#section5 .body{
+	margin-top: 40px;
+	margin-bottom: 30px;
+}
+#section5 .schedule_box{
+	background: #F7F8F9;
+	margin-top: 15px;
+}
+#section5 .schedule_box p{
+	margin: 0;
+}
+#section5 .schedule_box .head{
+	background: #00c3df;
+	color: white;
+	text-align: center;
+	font-size: 22px;
+}
+#section5 .schedule_box .head.sf{
+	background: #00c3df;
+}
+#section5 .schedule_box .head.all{
+	background: #f7931f;
+}
+#section5 .liveview{
+	background: #B8B8B8;
+}
+#section5 .attend{
+	background: #00c3df;
+}
+#section5 .hack{
+	background:#f7931f;
+}
+
+#section5 .button-outer{
+	position: relative;
+	top: 15px;
+}
+#section5 .button{
+	font-size: 20px;
+	margin-right: 15px;
+	border-radius: 0.2em;
+	color: white;
+	-webkit-box-shadow: inset  1px 1px 0px rgba(255, 255, 255, 0.9),
+	 1px 1px 0px rgba(0,0,0,0.5);
+	-moz-box-shadow: inset  1px 1px 0px rgba(255, 255, 255, 0.9),
+	 1px 1px 0px rgba(0,0,0,0.5);
+	box-shadow: inset  1px 1px 0px rgba(255, 255, 255, 0.9),
+	 1px 1px 0px rgba(0,0,0,0.5);
+}
+#section5 a.button{
+	position: relative;
+	color: white;
+	text-decoration: none;
+	padding: 0.3em 0.5em;
+	margin-top: 5px;
+}
+
+#section5 .rotate{
+	-webkit-transform: rotate(-90deg);
+	-moz-transform: rotate(-90deg);
+	top: 46px;
+	position: relative;
+	width:82px;
+	left: -25px;
+}
+
+#section6 .sponsor{
+margin-top: 30px;
+	text-align:center
+}
+
+#section6 .body{
+	margin-top: 40px;
+	margin-bottom: 30px;
+}
